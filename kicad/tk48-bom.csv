@@ -1,0 +1,24 @@
+﻿Designator,Quantity,Value,Footprint
+C1,1,1u セラミック,CP_Radial_D4.0mm_P1.50mm
+"C2, C3",2,22p セラミック,C_Disc_D3.0mm_W1.6mm_P2.50mm
+"C4, C5, C6",3,0.1u セラミック,C_Disc_D3.8mm_W2.6mm_P2.50mm
+D1,1,1SS131,D_DO-34_SOD68_P7.62mm_Horizontal
+D2,1,Pure Green 3mm LED,LED_D3.0mm
+D3,1,Pure Green 3mm LED,LED_D3.0mm
+D4,1,Yellow 3mm LED,LED_D3.0mm
+J1,1,1x6 L Pin Header,PinHeader_1x06_P2.54mm_Horizontal
+J2,1,1x16 Pin Socket,PinSocket_1x16_P2.54mm_Vertical
+J3,1,2x5 Pin Header,PinHeader_2x05_P2.54mm_Vertical
+JP1,1,1x2 Pin Header,PinHeader_1x02_P2.54mm_Vertical
+JP2,1,1x3 Pin Header,PinHeader_1x03_P2.54mm_Vertical
+R1,1,100 1/6W,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal
+"R2, R3, R4, R5, R6, R7",6,2.2k 1/6W,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal
+SW1,1,6mm タクトSW,SW_PUSH_6mm_H8.5mm
+SW2,1,スライドSW 3P,SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm
+TP1,1,,TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+TP2,1,,TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded
+U1,1,uPD8748,DIP-40_W15.24mm_Socket
+U2,1,6116 6264 62256 ...,DIP-28_W15.24mm_Socket
+U3,1,74LS573,DIP-20_W7.62mm_Socket
+U4,1,74LS08,DIP-14_W7.62mm_Socket
+Y2,1,Xtal 6MHz,Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
